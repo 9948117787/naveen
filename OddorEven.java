@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-class Odd
+class OddorEven
 {
 public static void main(String[] args)
 {
