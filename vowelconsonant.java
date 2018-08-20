@@ -8,7 +8,7 @@ public class vowelconsonant
     {
     	Scanner s=new Scanner (System.in);
 
-        char ch = 'z';
+        char ch = 'q';
 
         if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' )
             System.out.println(ch + " is vowel");
