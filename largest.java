@@ -11,12 +11,12 @@ public class Largest
         n2=s.nextDouble();
         n3=s.nextDouble();
         if( n1 >= n2 && n1 >= n3)
-            System.out.println(n1 + " is the largest number.");
+            System.out.println(n1);
 
         else if (n2 >= n1 && n2 >= n3)
-            System.out.println(n2 + " is the largest number.");
+            System.out.println(n2);
 
         else
-            System.out.println(n3 + " is the largest number.");
+            System.out.println(n3);
     }
 }
